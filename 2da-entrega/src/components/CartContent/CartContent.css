@@ -1,0 +1,7 @@
+.cart-content {
+    background-size:contain;
+    background-position: center;
+    height:  100vh;
+    background-color: grey;
+    background-image: url(../../../public/404.jpg);
+}
